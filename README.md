@@ -1,5 +1,5 @@
 # Cracko298's GitHub Profile
-- I mostly use C, BatchFile, ASM and Python for my projects.
+- I mostly use C, BatchFile, VBScript, ASM and Python for my projects.
 - A sarcastic character.
 - Currently Learning some Electrical Engineering.
 - Played alot of Ice Station Z on the Switch, PC, and 3DS.
