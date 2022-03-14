@@ -1,2 +1,1 @@
-# Cracko298's GitHub Profile
-- 15yo Learning Electrical Engineering & Computer Engineering.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cracko298)](https://github.com/anuraghazra/github-readme-stats)
