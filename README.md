@@ -1,6 +1,8 @@
 # GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cracko298&show_icons=true&theme=dark&count_private=true&show_icons=true)
+![stats](https://github.com/Cracko298/github-stats/blob/master/generated/languages.svg)
+
 
 # Current Project(s):
 
