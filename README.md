@@ -6,3 +6,4 @@
 # Current Project(s):
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Ultimate-Ice-Station-Z-Plugin&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Ice-Station-Z-Modding-Guide&show_icons=true&theme=dark&count_private=true&show_icons=true)]([https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin](https://github.com/Cracko298/Ice-Station-Z-Modding-Guide))
