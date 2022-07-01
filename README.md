@@ -5,5 +5,4 @@
 
 # Current Project(s):
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Save-Editor&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Editor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Group&repo=Ice-Station-Z-Save-Fixer&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/ISZ-Hacker-Group/Ice-Station-Z-Save-Fixer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Ultimate-Ice-Station-Z-Plugin&show_icons=true&theme=dark&count_private=true&show_icons=true)](https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin)
