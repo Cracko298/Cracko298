@@ -1,5 +1,2 @@
-# 👋 Hello.
-***What do I do on GitHub?***
-- I Mod/Hack Video-Games.
-- Make Game-Modding Software.
-- Make tutorials on Game-Modding on my [YouTube Channel](https://www.youtube.com/c/Cracko298)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
