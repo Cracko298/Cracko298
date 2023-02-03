@@ -5,4 +5,4 @@
 
 
 # Current Projects:
-![](https://github-stats.com/Cracko298/NISZSE)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=NISZSE&theme=dark)
