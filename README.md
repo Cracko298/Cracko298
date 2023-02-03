@@ -2,3 +2,7 @@
 **I Hack/Mod Video Games**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cracko298&theme=dark)
+
+
+# Current Projects:
+![](https://github-stats.com/Cracko298/NISZSE)
