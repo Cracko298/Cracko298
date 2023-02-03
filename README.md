@@ -6,3 +6,6 @@
 
 # Current Projects:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=NISZSE&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=BMMZHE&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=ISZ-Console-Injector&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Wobbly-Tooth-Save-Manager&theme=dark)
