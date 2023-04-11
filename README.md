@@ -1,4 +1,8 @@
 # Cracko298
 **I Hack/Mod Video Games**
 
-![github-user-contribution](https://user-images.githubusercontent.com/78656905/231042504-343406e8-dd9c-45c8-a74b-26bfc87d281a.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cracko298/Cracko298/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cracko298/Cracko298/output/github-contribution-grid-snake.svg">
+</picture>
