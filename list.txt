@@ -1,2 +1,2 @@
-https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector/blob/main/VS-Injector.zip?raw=true
-https://github.com/ISZ-Hacker-Organization/I2plg-Loader/blob/main/ISZ2021-Plugin-Loader.exe?raw=true
+ISZ-VS-Injector, https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector/blob/main/VS-Injector.zip?raw=true
+ISZ-I2plg-Loader, https://github.com/ISZ-Hacker-Organization/I2plg-Loader/blob/main/ISZ2021-Plugin-Loader.exe?raw=true
