@@ -1,7 +1,3 @@
 Download: ISZ-VS Injector, https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector/blob/main/VS-Injector.zip?raw=true
 Download: ISZ2021 Plugin Loader, https://github.com/ISZ-Hacker-Organization/I2plg-Loader/releases/download/v1.0/ISZ2021-Plugin-Loader.exe
 Download: ISZ-ModMenu, https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.6.0-alpha-1/ISZ-ModMenu.zip
-Download:
-Download:
-Download:
-Download:
