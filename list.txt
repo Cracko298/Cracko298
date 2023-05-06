@@ -1,7 +1,0 @@
-Download: ISZ-VS Injector, https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector/blob/main/VS-Injector.zip?raw=true
-Download: ISZ2021 Plugin Loader, https://github.com/ISZ-Hacker-Organization/I2plg-Loader/releases/download/v1.0/ISZ2021-Plugin-Loader.exe
-Download: ISZ-ModMenu, https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu/releases/download/v1.6.0-alpha-1/ISZ-ModMenu.zip
-Download: ISZ-Universal Unlocker, https://github.com/Cracko298/ISZ-Universal-Unlocker/releases/download/v2.0-release-2/FPS-Unlocker-V2.zip
-Download: ISZ Child-Key Generator, https://github.com/Cracko298/Ice-Station-Z-Save-Rebuilder/releases/download/v1.0-Release-1/Rebuilder.exe
-Download: Wobbly Tooth Save Manager, https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/releases/download/v1.2-release-1/Wobbly-Tooth-Save-Manager.zip
-Download: ISZ Advanced-Hack-Tool, https://github.com/Cracko298/Ice-Station-Z-Advanced-Hack-Tool/releases/download/v1.3-release-1/ISZ-Advanced-Hack-Tool-COMPILED.zip
