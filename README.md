@@ -6,3 +6,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cracko298/Cracko298/output/github-contribution-grid-snake.svg">
 </picture>
  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cracko298)](https://github.com/Cracko298)
