@@ -1,5 +1,5 @@
 # Cracko298
-**- Lead Hacker of ISZ-2021 on PC/Steam.**
+- **Lead Hacker of ISZ-2021 on PC/Steam.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cracko298/Cracko298/output/github-contribution-grid-snake-dark.svg">
