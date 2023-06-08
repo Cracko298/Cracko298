@@ -20,4 +20,8 @@
 [![Card 5](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=VS-Revisioned-Installer&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer)
 [![Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=NISZSE&show_icons=true&theme=dark)](https://github.com/Cracko298/NISZSE)
 
+[![Card 7](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=UE4-AES-Key-Extracting-Guide&show_icons=true&theme=dark)](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide)
+[![Card 8](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=NISZSE&show_icons=true&theme=dark)](https://github.com/Cracko298/NISZSE)
+
+
 https://github.com/Cracko298/NISZSE
