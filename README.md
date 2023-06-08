@@ -26,7 +26,4 @@
 [![Card 9](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Wobbly-Tooth-Save-Manager&show_icons=true&theme=dark)](ttps://github.com/Cracko298/Wobbly-Tooth-Save-Manager)
 [![Card 10](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=BMZHE&show_icons=true&theme=dark)](https://github.com/Cracko298/BMZHE)
 
-
-
-
-https://github.com/Cracko298/NISZSE
+### And Some More Not Mentioned...
