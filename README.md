@@ -7,9 +7,7 @@
 </picture>
 
 
-
- 
-[![Cracko298's Stats](https://github-readme-stats.vercel.app/api?username=Cracko298&show_icons=true&theme=dark)](https://github.com/Cracko298)
+# Projects:
 
 
 
