@@ -18,4 +18,7 @@
 
 [![Card 3](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=ISZ-ModMenu&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu)
 
-[![Card 4](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=VS-Revisioned-Installer&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer)
+[![Card 5](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=VS-Revisioned-Installer&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer)
+[![Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=NISZSE&show_icons=true&theme=dark)](https://github.com/Cracko298/NISZSE)
+
+https://github.com/Cracko298/NISZSE
