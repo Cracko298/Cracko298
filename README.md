@@ -23,7 +23,7 @@
 [![Card 7](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Ice-Station-Z-Save-Rebuilder&show_icons=true&theme=dark)](https://github.com/Cracko298/Ice-Station-Z-Save-Rebuilder)
 [![Card 8](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=UE4-AES-Key-Extracting-Guide&show_icons=true&theme=dark)](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide)
 
-[![Card 9](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Wobbly-Tooth-Save-Manager&show_icons=true&theme=dark)](ttps://github.com/Cracko298/Wobbly-Tooth-Save-Manager)
+[![Card 9](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Wobbly-Tooth-Save-Manager&show_icons=true&theme=dark)](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager)
 [![Card 10](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=BMZHE&show_icons=true&theme=dark)](https://github.com/Cracko298/BMZHE)
 
 ### And Some More Not Mentioned...
