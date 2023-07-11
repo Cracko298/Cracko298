@@ -1,5 +1,6 @@
 # Cracko298
 - **Lead Hacker of ISZ-2021 on PC/Steam.**
+- Founder of the [@ISZ-Hacker-Organization](https://github.com/ISZ-Hacker-Organization).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cracko298/Cracko298/output/github-contribution-grid-snake-dark.svg">
