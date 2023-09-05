@@ -26,7 +26,5 @@
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cracko298&show_icons=true&theme=dark&hide=html,scss,stylus,blade,jupyter%20notebook,tex,tcl,css,c)](https://github.com/Cracko298)
-
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Cracko298&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,tcl,tex,css,dockerfile,typescript&theme=dark&show_icons=true)](https://github.com/Cracko298)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Cracko298&theme=dark&show_icons=true)](https://github.com/Cracko298)
 ### And Some More Not Mentioned...
