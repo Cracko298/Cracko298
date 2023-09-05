@@ -25,6 +25,6 @@
 [![Card 9](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Wobbly-Tooth-Save-Manager&show_icons=true&theme=dark)](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager)
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cracko298)](https://github.com/Cracko298)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cracko298&show_icons=true&theme=dark)](https://github.com/Cracko298)
 
 ### And Some More Not Mentioned...
