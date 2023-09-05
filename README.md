@@ -7,7 +7,7 @@
 
 ## Projects:
 
-[![Card 1](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=The-ISZ-GodMod-Menu&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/The-ISZ-GodMod-Menu)
+[![Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=ISZ-2021-Plugin&show_icons=true&theme=dark)](https://github.com/Cracko298/ISZ-2021-Plugin)
 [![Card 2](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=I2plg-Loader&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/I2plg-Loader)
 
 [![Card 3](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=ISZ-ModMenu&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu)
