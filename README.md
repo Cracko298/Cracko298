@@ -5,7 +5,7 @@
 
 ### Game Modder & Researcher
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cracko298&show_icons=true&langs_count=8&layout=donut&theme=dark&hide=html,scss,stylus,blade,jupyter%20notebook,tex,tcl,css,nix,javascript,objectivec&show=prs_merged)](https://github.com/Cracko298)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cracko298&show_icons=true&langs_count=8&layout=donut&theme=dark&hide=html,scss,stylus,blade,jupyter%20notebook,tex,tcl,css,nix,javascript,c&show=prs_merged)](https://github.com/Cracko298)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Cracko298&theme=dark&show_icons=true)](https://github.com/Cracko298)
 
 
