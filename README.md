@@ -1,5 +1,5 @@
 # Cracko298
-- **Lead Hacker of ISZ-2021 on PC/Steam.**
+- **Lead Hacker/Modder of ISZ-2021 on PC/Steam.**
 - **Founder of the [@ISZ-Hacker-Organization](https://github.com/ISZ-Hacker-Organization).**
 
 ### Game Modder & Researcher
