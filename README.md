@@ -2,8 +2,7 @@
 - **Lead Hacker/Modder of ISZ-2021 on PC/Steam.**
 - **Founder of the [@ISZ-Hacker-Organization](https://github.com/ISZ-Hacker-Organization).**
 
-:wave: **Hi I'm Phin, I create tools and software to better help with Game Modding/Hacking, I know a multitude of Languages, and a Backend Developer at Heart.**
-
+:wave: **Hi I'm Phin, I create tools and software to better help with Game Modding/Hacking, I know a multitude of Languages, and a Backend Developer at Heart.** 
 **My favorite language to write is C, right next to Python. I have years of experience, and am fully self taught.**
 
 ### Game Modder & Researcher
