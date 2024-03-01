@@ -3,7 +3,6 @@
 - **Founder of the [@ISZ-Hacker-Organization](https://github.com/ISZ-Hacker-Organization).**
 
 :wave: **Hi I'm Phin, I create tools and software to better help with Game Modding/Hacking, I know a multitude of Languages, and a Backend Developer at Heart.**
-**I'm currently in Highschool, but I'm Going to College for <ins>Database Management</ins> and <ins>Data Analytics</ins> here in a few months.**
 
 ### Game Modder & Researcher
 
