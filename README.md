@@ -12,18 +12,4 @@
 
 <embed src="https://skyline.github.com/cracko298/2023" style="width:500px; height: 300px;">
 
-## Projects:
-
-[![Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=ISZ-2021-Plugin&show_icons=true&theme=dark)](https://github.com/Cracko298/ISZ-2021-Plugin)
-[![Card 2](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=I2plg-Loader&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/I2plg-Loader)
-
-[![Card 3](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=ISZ-ModMenu&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/ISZ-ModMenu)
-[![Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=ISZ-Universal-Unlocker&show_icons=true&theme=dark)](https://github.com/Cracko298/ISZ-Universal-Unlocker)
-
-[![Card 5](https://github-readme-stats.vercel.app/api/pin/?username=ISZ-Hacker-Organization&repo=VS-Revisioned-Installer&show_icons=true&theme=dark)](https://github.com/ISZ-Hacker-Organization/VS-Revisioned-Installer)
-[![Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=NISZSE&show_icons=true&theme=dark)](https://github.com/Cracko298/NISZSE)
-
-[![Card 8](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=UE4-AES-Key-Extracting-Guide&show_icons=true&theme=dark)](https://github.com/Cracko298/UE4-AES-Key-Extracting-Guide)
-[![Card 9](https://github-readme-stats.vercel.app/api/pin/?username=Cracko298&repo=Wobbly-Tooth-Save-Manager&show_icons=true&theme=dark)](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager)
-
 ### And Some More Not Mentioned...
