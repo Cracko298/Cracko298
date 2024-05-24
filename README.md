@@ -11,5 +11,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Cracko298&theme=dark&show_icons=true)](https://github.com/Cracko298)
 
 <embed src="https://skyline.github.com/cracko298/2023" style="width:500px; height: 300px;">
-
-### And Some More Not Mentioned...
