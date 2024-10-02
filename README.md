@@ -1,9 +1,9 @@
 # Cracko298
-- **Lead Hacker/Modder of ISZ-2021 on PC/Steam.**
-- **Founder of the [@ISZ-Hacker-Organization](https://github.com/ISZ-Hacker-Organization).**
+- **Head Developer of Multiple Projects Including a VideoGame-Model-Editor, Audio-Injector and something else to rule the world...**
 
-:wave: **Hi I'm Phin, I create tools and software to better help with Game Modding/Hacking, I know a multitude of Languages, and a Backend Developer at Heart.** 
-**My favorite language to write is C, right next to Python. I have years of experience, and am fully self taught.**
+:wave: **Hi I'm Phin, I create tools to better help with Game Modding, Understanding Obscure Formats, and Hacking. I know a multitude of Languages, and I am a Backend Developer at Heart.**
+**I started off because I wanted to know how Games and Applications read/wrote data. And how each of them can be exploited to load my own Stuff such as Audio, Models, and New Content.**
+**My favorite language to write is C, right next to Python. I have 8+ years of experience, and am fully self taught.**
 
 ### Game Modder & Researcher
 
