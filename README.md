@@ -5,7 +5,4 @@
 - **I started off because I wanted to know how Games and Applications read/wrote data. And how each of them can be exploited to load my own Stuff such as Audio, Models, and New Content.**
 - **My favorite language to write is C, right next to Python. I have 9+ years of experience, and am fully self taught.**
 
-### Game Modder & Researcher
-[![myprof](https://github-readme-stats.vercel.app/api?username=Cracko298&theme=dark&show_icons=true)](https://github.com/Cracko298)
-
 <embed src="https://skyline.github.com/cracko298/2023" style="width:500px; height: 300px;">
